@@ -6,6 +6,7 @@ public class User {
     private String name;
     private double balance;
     private String accountNumber;
+    private double credit;
 
     public User(String name, double balance) {
         this.name = name;
